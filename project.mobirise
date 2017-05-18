@@ -1,0 +1,58 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.9.5",
+    "versionPublish": "2.9.5",
+    "name": "Richardherold.com",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise"
+    },
+    "path": "file:///Users/Richard/Library/Application%20Support/Mobirise.com/Mobirise/projects/project-2016-03-10_182929",
+    "publishType": "local",
+    "publishPath": "file:///Users/Richard/Google%20Drive/Websites/richardherold.com%203.0",
+    "favicon": "@PROJECT_PATH@/assets/images/12063380-10102385824640109-6089345612008977124-n-720x720-92.jpg"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Mobirise Mobile Website Builder",
+        "meta_descr": "Free Responsive Website Maker. Create awesome mobile-first websites. Easy and fast - No coding!",
+        "header_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <head> section, right before </head> -->",
+        "footer_custom": "<!-- Paste any valid HTML code here. The code will be inserted to the end of <body> section, right before </body> -->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-3",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg.jpg",
+            "bgColor": "#4c6972",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "title": "I am Richard Herold",
+          "text": "I keep nothing up to date online.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"mailto:richard@richardherold.com\" data-toolbar=\"-mbrBtnMove\">Email Me Instead</a> "
+        }
+      ]
+    }
+  }
+}
