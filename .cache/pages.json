@@ -15,11 +15,6 @@
         "path": "/404/"
     },
     {
-        "componentChunkName": "component---cache-dev-404-page-js",
-        "jsonName": "dev-404-page-5f9",
-        "path": "/dev-404-page/"
-    },
-    {
         "componentChunkName": "component---src-pages-elements-js",
         "jsonName": "elements-835",
         "path": "/elements/"
@@ -33,6 +28,11 @@
         "componentChunkName": "component---src-pages-landing-js",
         "jsonName": "landing-c48",
         "path": "/landing/"
+    },
+    {
+        "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+        "jsonName": "offline-plugin-app-shell-fallback-a30",
+        "path": "/offline-plugin-app-shell-fallback/"
     },
     {
         "componentChunkName": "component---src-pages-opinions-js",
@@ -58,5 +58,10 @@
         "componentChunkName": "component---src-pages-resume-js",
         "jsonName": "resume-e4f",
         "path": "/resume/"
+    },
+    {
+        "componentChunkName": "component---src-pages-tinker-js",
+        "jsonName": "tinker-db9",
+        "path": "/tinker/"
     }
 ]
