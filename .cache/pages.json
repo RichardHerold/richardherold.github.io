@@ -58,5 +58,10 @@
         "componentChunkName": "component---src-pages-resume-js",
         "jsonName": "resume-e4f",
         "path": "/resume/"
+    },
+    {
+        "componentChunkName": "component---src-pages-tinker-js",
+        "jsonName": "tinker-db9",
+        "path": "/tinker/"
     }
 ]

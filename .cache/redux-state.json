@@ -987,6 +987,26 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /tinker/": {
+      "jsonName": "tinker-db9",
+      "internalComponentName": "ComponentTinker",
+      "path": "/tinker/",
+      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/tinker.js",
+      "componentChunkName": "component---src-pages-tinker-js",
+      "context": {},
+      "pluginCreator___NODE": "e9478175-d1fb-55bb-8b03-baf32068704b",
+      "pluginCreatorId": "e9478175-d1fb-55bb-8b03-baf32068704b",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/tinker.js",
+      "id": "SitePage /tinker/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0a4b91696833e7ebbbd5ea2a5401137a",
+        "description": "e9478175-d1fb-55bb-8b03-baf32068704b",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -1009,7 +1029,8 @@
     "photography-ed6": "733/path---photography-ed-6-a97-NZuapzHg3X9TaN1iIixfv1W23E",
     "opinions-281": "830/path---opinions-281-ac5-NZuapzHg3X9TaN1iIixfv1W23E",
     "resume-e4f": "794/path---resume-e-4-f-cdf-NZuapzHg3X9TaN1iIixfv1W23E",
-    "projects-9e9": "545/path---projects-9-e-9-957-NZuapzHg3X9TaN1iIixfv1W23E"
+    "projects-9e9": "545/path---projects-9-e-9-957-NZuapzHg3X9TaN1iIixfv1W23E",
+    "tinker-db9": "605/path---tinker-db-9-9c3-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
     "/Users/richardherold/Documents/GitHub/richardherold.github.io/.cache/dev-404-page.js": {
@@ -1055,6 +1076,10 @@
     "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/projects.js": {
       "query": "",
       "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/projects.js"
+    },
+    "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/tinker.js": {
+      "query": "",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/tinker.js"
     }
   },
   "staticQueryComponents": {}

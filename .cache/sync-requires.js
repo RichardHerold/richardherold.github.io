@@ -15,6 +15,7 @@ exports.components = {
   "component---src-pages-photography-js": hot(preferDefault(require("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/photography.js"))),
   "component---src-pages-projects-js": hot(preferDefault(require("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/projects.js"))),
   "component---src-pages-recipes-js": hot(preferDefault(require("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js"))),
-  "component---src-pages-resume-js": hot(preferDefault(require("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/resume.js")))
+  "component---src-pages-resume-js": hot(preferDefault(require("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/resume.js"))),
+  "component---src-pages-tinker-js": hot(preferDefault(require("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/tinker.js")))
 }
 

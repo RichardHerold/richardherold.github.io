@@ -1,10 +1,10 @@
 import React from 'react'
 
-const BannerPhotography = (props) => (
-    <section id="banner" className="style3">
+const BannerTinker = (props) => (
+    <section id="banner" className="style5">
         <div className="inner">
             <header className="major">
-                <h1>Photography</h1>
+                <h1>Tinker</h1>
             </header>
             <div className="content">
                 <p>Lorem ipsum dolor sit amet nullam consequat<br />
@@ -14,4 +14,4 @@ const BannerPhotography = (props) => (
     </section>
 )
 
-export default BannerPhotography
+export default BannerTinker
