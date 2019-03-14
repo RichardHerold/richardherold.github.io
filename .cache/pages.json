@@ -45,6 +45,11 @@
         "path": "/photography/"
     },
     {
+        "componentChunkName": "component---src-pages-projects-js",
+        "jsonName": "projects-9e9",
+        "path": "/projects/"
+    },
+    {
         "componentChunkName": "component---src-pages-recipes-js",
         "jsonName": "recipes-3c6",
         "path": "/recipes/"

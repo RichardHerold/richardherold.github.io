@@ -967,6 +967,26 @@
         "description": "e9478175-d1fb-55bb-8b03-baf32068704b",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /projects/": {
+      "jsonName": "projects-9e9",
+      "internalComponentName": "ComponentProjects",
+      "path": "/projects/",
+      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/projects.js",
+      "componentChunkName": "component---src-pages-projects-js",
+      "context": {},
+      "pluginCreator___NODE": "e9478175-d1fb-55bb-8b03-baf32068704b",
+      "pluginCreatorId": "e9478175-d1fb-55bb-8b03-baf32068704b",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/projects.js",
+      "id": "SitePage /projects/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "87fcfe17ecd63a48318cf6a3e9e8956a",
+        "description": "e9478175-d1fb-55bb-8b03-baf32068704b",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -988,7 +1008,8 @@
     "recipes-3c6": "30/path---recipes-3-c-6-4cc-NZuapzHg3X9TaN1iIixfv1W23E",
     "photography-ed6": "733/path---photography-ed-6-a97-NZuapzHg3X9TaN1iIixfv1W23E",
     "opinions-281": "830/path---opinions-281-ac5-NZuapzHg3X9TaN1iIixfv1W23E",
-    "resume-e4f": "794/path---resume-e-4-f-cdf-NZuapzHg3X9TaN1iIixfv1W23E"
+    "resume-e4f": "794/path---resume-e-4-f-cdf-NZuapzHg3X9TaN1iIixfv1W23E",
+    "projects-9e9": "545/path---projects-9-e-9-957-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
     "/Users/richardherold/Documents/GitHub/richardherold.github.io/.cache/dev-404-page.js": {
@@ -1030,6 +1051,10 @@
     "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/resume.js": {
       "query": "",
       "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/resume.js"
+    },
+    "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/projects.js": {
+      "query": "",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/projects.js"
     }
   },
   "staticQueryComponents": {}
