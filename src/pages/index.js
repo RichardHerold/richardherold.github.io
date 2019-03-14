@@ -69,7 +69,7 @@ class HomeIndex extends React.Component {
                                 <h3>Recipes</h3>
                                 <p>I cook a lot</p>
                             </header>
-                            <Link to="/Recipes" className="link primary"></Link>
+                            <Link to="/recipes" className="link primary"></Link>
                         </article>
                     </section>
                     <section id="two">
