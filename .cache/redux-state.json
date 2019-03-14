@@ -1,22 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "jsonName": "dev-404-page-5f9",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c769adbdf2aaecdd7dbf767619a5d7d6",
-        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -575,7 +566,7 @@
       "resolve": "/Users/richardherold/Documents/GitHub/richardherold.github.io",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "70342db2650dc889b2887f558b6ac106",
+      "version": "fd56cc4c5178c153f56a2cd0c9515e0b",
       "pluginOptions": {
         "plugins": []
       },
@@ -632,6 +623,10 @@
         ],
         "devDependencies": [
           {
+            "name": "gh-pages",
+            "version": "^2.0.1"
+          },
+          {
             "name": "prettier",
             "version": "^1.14.2"
           }
@@ -643,7 +638,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "449625fbfc4de508d0d46a578933785b",
+        "contentDigest": "1172185e5463021f9653b73f71af6172",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -673,7 +668,10 @@
           "gatsby",
           "gatsby-plugin"
         ],
-        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
         "license": "MIT",
         "dependencies": [
           {
@@ -754,17 +752,35 @@
         "author": "Hunter Chang",
         "description": "A Gatsby.js V2 Starter based on Forty by HTML5 UP"
       },
-      "port": "8000",
-      "host": "localhost",
-      "pathPrefix": "",
+      "pathPrefix": "/reponame",
       "polyfill": true,
-      "buildTime": "2019-03-14T20:23:57.978Z",
+      "buildTime": "2019-03-14T21:09:25.781Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "34971c456d9a6e29c66ddfda2a0f4463",
+        "contentDigest": "e23e99dd5673e5d602a37ece5ada15e7",
         "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /offline-plugin-app-shell-fallback/": {
+      "jsonName": "offline-plugin-app-shell-fallback-a30",
+      "internalComponentName": "ComponentOfflinePluginAppShellFallback",
+      "path": "/offline-plugin-app-shell-fallback/",
+      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/node_modules/gatsby-plugin-offline/app-shell.js",
+      "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+      "context": {},
+      "pluginCreator___NODE": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "pluginCreatorId": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/node_modules/gatsby-plugin-offline/app-shell.js",
+      "id": "SitePage /offline-plugin-app-shell-fallback/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "71a2c36231b1da91809234b09f3c322e",
+        "description": "63e5f7ff-e5f1-58f7-8e2c-55872ac42281",
         "owner": "internal-data-bridge"
       }
     },
@@ -968,26 +984,6 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /404.html": {
-      "jsonName": "404-html-516",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "78af1831ad03803b8cee085f248d6ee0",
-        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-        "owner": "internal-data-bridge"
-      }
-    },
     "SitePage /tinker/": {
       "jsonName": "tinker-db9",
       "internalComponentName": "ComponentTinker",
@@ -1007,11 +1003,31 @@
         "description": "e9478175-d1fb-55bb-8b03-baf32068704b",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "78af1831ad03803b8cee085f248d6ee0",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "715c0b01beedcb477d6dd929ef3d21b8"
+    "PLUGINS_HASH": "6f25d78ae51c854943eedc6b9d269899"
   },
   "componentDataDependencies": {
     "nodes": {},
@@ -1030,12 +1046,13 @@
     "opinions-281": "830/path---opinions-281-ac5-NZuapzHg3X9TaN1iIixfv1W23E",
     "resume-e4f": "794/path---resume-e-4-f-cdf-NZuapzHg3X9TaN1iIixfv1W23E",
     "projects-9e9": "545/path---projects-9-e-9-957-NZuapzHg3X9TaN1iIixfv1W23E",
-    "tinker-db9": "605/path---tinker-db-9-9c3-NZuapzHg3X9TaN1iIixfv1W23E"
+    "tinker-db9": "605/path---tinker-db-9-9c3-NZuapzHg3X9TaN1iIixfv1W23E",
+    "offline-plugin-app-shell-fallback-a30": "520/path---offline-plugin-app-shell-fallback-a-30-c5a-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
-    "/Users/richardherold/Documents/GitHub/richardherold.github.io/.cache/dev-404-page.js": {
+    "/Users/richardherold/Documents/GitHub/richardherold.github.io/node_modules/gatsby-plugin-offline/app-shell.js": {
       "query": "",
-      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/.cache/dev-404-page.js"
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/node_modules/gatsby-plugin-offline/app-shell.js"
     },
     "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/404.js": {
       "query": "",
@@ -1057,25 +1074,25 @@
       "query": "",
       "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/landing.js"
     },
-    "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js": {
+    "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/opinions.js": {
       "query": "",
-      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js"
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/opinions.js"
     },
     "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/photography.js": {
       "query": "",
       "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/photography.js"
     },
-    "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/opinions.js": {
+    "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/projects.js": {
       "query": "",
-      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/opinions.js"
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/projects.js"
+    },
+    "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js": {
+      "query": "",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js"
     },
     "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/resume.js": {
       "query": "",
       "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/resume.js"
-    },
-    "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/projects.js": {
-      "query": "",
-      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/projects.js"
     },
     "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/tinker.js": {
       "query": "",
