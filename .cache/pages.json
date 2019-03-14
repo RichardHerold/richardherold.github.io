@@ -35,6 +35,11 @@
         "path": "/landing/"
     },
     {
+        "componentChunkName": "component---src-pages-opinions-js",
+        "jsonName": "opinions-281",
+        "path": "/opinions/"
+    },
+    {
         "componentChunkName": "component---src-pages-photography-js",
         "jsonName": "photography-ed6",
         "path": "/photography/"

@@ -927,6 +927,26 @@
         "description": "e9478175-d1fb-55bb-8b03-baf32068704b",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /opinions/": {
+      "jsonName": "opinions-281",
+      "internalComponentName": "ComponentOpinions",
+      "path": "/opinions/",
+      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/opinions.js",
+      "componentChunkName": "component---src-pages-opinions-js",
+      "context": {},
+      "pluginCreator___NODE": "e9478175-d1fb-55bb-8b03-baf32068704b",
+      "pluginCreatorId": "e9478175-d1fb-55bb-8b03-baf32068704b",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/opinions.js",
+      "id": "SitePage /opinions/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5038131f5b36a56994c07d81c6ff63f1",
+        "description": "e9478175-d1fb-55bb-8b03-baf32068704b",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -946,7 +966,8 @@
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
     "recipes-3c6": "30/path---recipes-3-c-6-4cc-NZuapzHg3X9TaN1iIixfv1W23E",
-    "photography-ed6": "733/path---photography-ed-6-a97-NZuapzHg3X9TaN1iIixfv1W23E"
+    "photography-ed6": "733/path---photography-ed-6-a97-NZuapzHg3X9TaN1iIixfv1W23E",
+    "opinions-281": "830/path---opinions-281-ac5-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
     "/Users/richardherold/Documents/GitHub/richardherold.github.io/.cache/dev-404-page.js": {
@@ -980,6 +1001,10 @@
     "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/photography.js": {
       "query": "",
       "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/photography.js"
+    },
+    "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/opinions.js": {
+      "query": "",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/opinions.js"
     }
   },
   "staticQueryComponents": {}

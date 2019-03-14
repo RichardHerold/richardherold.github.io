@@ -12,6 +12,7 @@ exports.components = {
   "component---src-pages-index-js": hot(preferDefault(require("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/index.js"))),
   "component---src-pages-landing-js": hot(preferDefault(require("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/landing.js"))),
   "component---src-pages-recipes-js": hot(preferDefault(require("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js"))),
-  "component---src-pages-photography-js": hot(preferDefault(require("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/photography.js")))
+  "component---src-pages-photography-js": hot(preferDefault(require("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/photography.js"))),
+  "component---src-pages-opinions-js": hot(preferDefault(require("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/opinions.js")))
 }
 
