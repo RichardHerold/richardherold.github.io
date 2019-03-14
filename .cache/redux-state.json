@@ -758,12 +758,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-14T17:26:56.692Z",
+      "buildTime": "2019-03-14T20:23:57.978Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "8ce02c9b60511ec057f70e843389572e",
+        "contentDigest": "34971c456d9a6e29c66ddfda2a0f4463",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -868,43 +868,23 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /recipes/": {
-      "jsonName": "recipes-3c6",
-      "internalComponentName": "ComponentRecipes",
-      "path": "/recipes/",
-      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js",
-      "componentChunkName": "component---src-pages-recipes-js",
+    "SitePage /opinions/": {
+      "jsonName": "opinions-281",
+      "internalComponentName": "ComponentOpinions",
+      "path": "/opinions/",
+      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/opinions.js",
+      "componentChunkName": "component---src-pages-opinions-js",
       "context": {},
       "pluginCreator___NODE": "e9478175-d1fb-55bb-8b03-baf32068704b",
       "pluginCreatorId": "e9478175-d1fb-55bb-8b03-baf32068704b",
-      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js",
-      "id": "SitePage /recipes/",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/opinions.js",
+      "id": "SitePage /opinions/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b38cf59834b45baa637eca5fb93cef7f",
+        "contentDigest": "5038131f5b36a56994c07d81c6ff63f1",
         "description": "e9478175-d1fb-55bb-8b03-baf32068704b",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "jsonName": "404-html-516",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "context": {},
-      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "78af1831ad03803b8cee085f248d6ee0",
-        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
     },
@@ -928,22 +908,42 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /opinions/": {
-      "jsonName": "opinions-281",
-      "internalComponentName": "ComponentOpinions",
-      "path": "/opinions/",
-      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/opinions.js",
-      "componentChunkName": "component---src-pages-opinions-js",
+    "SitePage /projects/": {
+      "jsonName": "projects-9e9",
+      "internalComponentName": "ComponentProjects",
+      "path": "/projects/",
+      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/projects.js",
+      "componentChunkName": "component---src-pages-projects-js",
       "context": {},
       "pluginCreator___NODE": "e9478175-d1fb-55bb-8b03-baf32068704b",
       "pluginCreatorId": "e9478175-d1fb-55bb-8b03-baf32068704b",
-      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/opinions.js",
-      "id": "SitePage /opinions/",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/projects.js",
+      "id": "SitePage /projects/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5038131f5b36a56994c07d81c6ff63f1",
+        "contentDigest": "87fcfe17ecd63a48318cf6a3e9e8956a",
+        "description": "e9478175-d1fb-55bb-8b03-baf32068704b",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /recipes/": {
+      "jsonName": "recipes-3c6",
+      "internalComponentName": "ComponentRecipes",
+      "path": "/recipes/",
+      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js",
+      "componentChunkName": "component---src-pages-recipes-js",
+      "context": {},
+      "pluginCreator___NODE": "e9478175-d1fb-55bb-8b03-baf32068704b",
+      "pluginCreatorId": "e9478175-d1fb-55bb-8b03-baf32068704b",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js",
+      "id": "SitePage /recipes/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b38cf59834b45baa637eca5fb93cef7f",
         "description": "e9478175-d1fb-55bb-8b03-baf32068704b",
         "owner": "internal-data-bridge"
       }
@@ -968,23 +968,23 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /projects/": {
-      "jsonName": "projects-9e9",
-      "internalComponentName": "ComponentProjects",
-      "path": "/projects/",
-      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/projects.js",
-      "componentChunkName": "component---src-pages-projects-js",
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "pluginCreator___NODE": "e9478175-d1fb-55bb-8b03-baf32068704b",
-      "pluginCreatorId": "e9478175-d1fb-55bb-8b03-baf32068704b",
-      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/projects.js",
-      "id": "SitePage /projects/",
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/404.js",
+      "id": "SitePage /404.html",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "87fcfe17ecd63a48318cf6a3e9e8956a",
-        "description": "e9478175-d1fb-55bb-8b03-baf32068704b",
+        "contentDigest": "78af1831ad03803b8cee085f248d6ee0",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
     }

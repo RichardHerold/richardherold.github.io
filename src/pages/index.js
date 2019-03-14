@@ -41,21 +41,21 @@ class HomeIndex extends React.Component {
                                 <h3>Projects</h3>
                                 <p>I sometimes work outside my job</p>
                             </header>
-                            <Link to="/landing" className="link primary"></Link>
+                            <Link to="/projects" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
                                 <h3>Tinkering</h3>
-                                <p>Lorem etiam nullam</p>
+                                <p>I make things out of other things</p>
                             </header>
                             <Link to="/tinker" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>Opinions</h3>
-                                <p>I have opinions please change them</p>
+                                <h3>Recipes</h3>
+                                <p>I cook a lot</p>
                             </header>
-                            <Link to="/opinions" className="link primary"></Link>
+                            <Link to="/recipes" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
@@ -66,10 +66,10 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
-                                <h3>Recipes</h3>
-                                <p>I cook a lot</p>
+                                <h3>Opinions</h3>
+                                <p>I have opinions please change them</p>
                             </header>
-                            <Link to="/recipes" className="link primary"></Link>
+                            <Link to="/opinions" className="link primary"></Link>
                         </article>
                     </section>
                     <section id="two">
