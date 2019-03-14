@@ -758,12 +758,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-03-14T02:09:01.952Z",
+      "buildTime": "2019-03-14T17:26:56.692Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "6c72d686bce6ac76b41842589ef1a35b",
+        "contentDigest": "8ce02c9b60511ec057f70e843389572e",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -868,6 +868,26 @@
         "owner": "internal-data-bridge"
       }
     },
+    "SitePage /recipes/": {
+      "jsonName": "recipes-3c6",
+      "internalComponentName": "ComponentRecipes",
+      "path": "/recipes/",
+      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js",
+      "componentChunkName": "component---src-pages-recipes-js",
+      "context": {},
+      "pluginCreator___NODE": "e9478175-d1fb-55bb-8b03-baf32068704b",
+      "pluginCreatorId": "e9478175-d1fb-55bb-8b03-baf32068704b",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js",
+      "id": "SitePage /recipes/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b38cf59834b45baa637eca5fb93cef7f",
+        "description": "e9478175-d1fb-55bb-8b03-baf32068704b",
+        "owner": "internal-data-bridge"
+      }
+    },
     "SitePage /404.html": {
       "jsonName": "404-html-516",
       "internalComponentName": "Component404Html",
@@ -888,22 +908,22 @@
         "owner": "internal-data-bridge"
       }
     },
-    "SitePage /recipes/": {
-      "jsonName": "recipes-3c6",
-      "internalComponentName": "ComponentRecipes",
-      "path": "/recipes/",
-      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js",
-      "componentChunkName": "component---src-pages-recipes-js",
+    "SitePage /photography/": {
+      "jsonName": "photography-ed6",
+      "internalComponentName": "ComponentPhotography",
+      "path": "/photography/",
+      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/photography.js",
+      "componentChunkName": "component---src-pages-photography-js",
       "context": {},
       "pluginCreator___NODE": "e9478175-d1fb-55bb-8b03-baf32068704b",
       "pluginCreatorId": "e9478175-d1fb-55bb-8b03-baf32068704b",
-      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js",
-      "id": "SitePage /recipes/",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/photography.js",
+      "id": "SitePage /photography/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b38cf59834b45baa637eca5fb93cef7f",
+        "contentDigest": "b9f23494aab93e921ee33712080671ae",
         "description": "e9478175-d1fb-55bb-8b03-baf32068704b",
         "owner": "internal-data-bridge"
       }
@@ -925,7 +945,8 @@
     "landing-c48": "15/path---landing-c-48-4b3-NZuapzHg3X9TaN1iIixfv1W23E",
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
     "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
-    "recipes-3c6": "30/path---recipes-3-c-6-4cc-NZuapzHg3X9TaN1iIixfv1W23E"
+    "recipes-3c6": "30/path---recipes-3-c-6-4cc-NZuapzHg3X9TaN1iIixfv1W23E",
+    "photography-ed6": "733/path---photography-ed-6-a97-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
     "/Users/richardherold/Documents/GitHub/richardherold.github.io/.cache/dev-404-page.js": {
@@ -955,6 +976,10 @@
     "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js": {
       "query": "",
       "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js"
+    },
+    "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/photography.js": {
+      "query": "",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/photography.js"
     }
   },
   "staticQueryComponents": {}
