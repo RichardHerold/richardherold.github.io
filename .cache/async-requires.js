@@ -10,7 +10,8 @@ exports.components = {
   "component---src-pages-landing-js": () => import("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/landing.js" /* webpackChunkName: "component---src-pages-landing-js" */),
   "component---src-pages-recipes-js": () => import("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js" /* webpackChunkName: "component---src-pages-recipes-js" */),
   "component---src-pages-photography-js": () => import("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/photography.js" /* webpackChunkName: "component---src-pages-photography-js" */),
-  "component---src-pages-opinions-js": () => import("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/opinions.js" /* webpackChunkName: "component---src-pages-opinions-js" */)
+  "component---src-pages-opinions-js": () => import("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/opinions.js" /* webpackChunkName: "component---src-pages-opinions-js" */),
+  "component---src-pages-resume-js": () => import("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/resume.js" /* webpackChunkName: "component---src-pages-resume-js" */)
 }
 
 exports.data = () => import(/* webpackChunkName: "pages-manifest" */ "/Users/richardherold/Documents/GitHub/richardherold.github.io/.cache/data.json")

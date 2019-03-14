@@ -48,5 +48,10 @@
         "componentChunkName": "component---src-pages-recipes-js",
         "jsonName": "recipes-3c6",
         "path": "/recipes/"
+    },
+    {
+        "componentChunkName": "component---src-pages-resume-js",
+        "jsonName": "resume-e4f",
+        "path": "/resume/"
     }
 ]
