@@ -33,5 +33,10 @@
         "componentChunkName": "component---src-pages-landing-js",
         "jsonName": "landing-c48",
         "path": "/landing/"
+    },
+    {
+        "componentChunkName": "component---src-pages-recipes-js",
+        "jsonName": "recipes-3c6",
+        "path": "/recipes/"
     }
 ]

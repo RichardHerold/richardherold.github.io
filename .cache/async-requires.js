@@ -7,7 +7,8 @@ exports.components = {
   "component---src-pages-elements-js": () => import("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/elements.js" /* webpackChunkName: "component---src-pages-elements-js" */),
   "component---src-pages-generic-js": () => import("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/generic.js" /* webpackChunkName: "component---src-pages-generic-js" */),
   "component---src-pages-index-js": () => import("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
-  "component---src-pages-landing-js": () => import("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/landing.js" /* webpackChunkName: "component---src-pages-landing-js" */)
+  "component---src-pages-landing-js": () => import("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/landing.js" /* webpackChunkName: "component---src-pages-landing-js" */),
+  "component---src-pages-recipes-js": () => import("/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js" /* webpackChunkName: "component---src-pages-recipes-js" */)
 }
 
 exports.data = () => import(/* webpackChunkName: "pages-manifest" */ "/Users/richardherold/Documents/GitHub/richardherold.github.io/.cache/data.json")

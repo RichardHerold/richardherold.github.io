@@ -887,6 +887,26 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /recipes/": {
+      "jsonName": "recipes-3c6",
+      "internalComponentName": "ComponentRecipes",
+      "path": "/recipes/",
+      "component": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js",
+      "componentChunkName": "component---src-pages-recipes-js",
+      "context": {},
+      "pluginCreator___NODE": "e9478175-d1fb-55bb-8b03-baf32068704b",
+      "pluginCreatorId": "e9478175-d1fb-55bb-8b03-baf32068704b",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js",
+      "id": "SitePage /recipes/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b38cf59834b45baa637eca5fb93cef7f",
+        "description": "e9478175-d1fb-55bb-8b03-baf32068704b",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
@@ -904,7 +924,8 @@
     "generic-bbb": "520/path---generic-bbb-df1-NZuapzHg3X9TaN1iIixfv1W23E",
     "landing-c48": "15/path---landing-c-48-4b3-NZuapzHg3X9TaN1iIixfv1W23E",
     "index": "173/path---index-6a9-NZuapzHg3X9TaN1iIixfv1W23E",
-    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E"
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "recipes-3c6": "30/path---recipes-3-c-6-4cc-NZuapzHg3X9TaN1iIixfv1W23E"
   },
   "components": {
     "/Users/richardherold/Documents/GitHub/richardherold.github.io/.cache/dev-404-page.js": {
@@ -930,6 +951,10 @@
     "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/landing.js": {
       "query": "",
       "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/landing.js"
+    },
+    "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js": {
+      "query": "",
+      "componentPath": "/Users/richardherold/Documents/GitHub/richardherold.github.io/src/pages/recipes.js"
     }
   },
   "staticQueryComponents": {}
